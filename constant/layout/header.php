@@ -21,7 +21,7 @@ require_once('./constant/connect.php');
                 <a class="navbar-brand" href="index.php">
 
 
-                    <b><img src="./assets/uploadImage/Logo/logo.png" style="width: 100%;" alt="homepage" class="dark-logo" style="width:100%;height:auto;" /></b>
+                    <b><img src="./assets/uploadImage/Logo/logo.png" style="width: 30%;" alt="homepage" class="dark-logo" style="width:100%;height:auto;" /></b>
 
                 </a>
             </div>
