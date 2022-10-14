@@ -1,6 +1,6 @@
 <?php
 // DB credentials.
-$servername = "localhost:3306";
+$servername = "host.docker.internal";
 $username = "root";
 $password = "nike";
 $dbname = "farmacia";

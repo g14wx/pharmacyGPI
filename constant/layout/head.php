@@ -8,9 +8,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="description" content="ConfiguroWeb">
-  <meta name="keywords" content="ConfiguroWeb">
-  <meta name="author" content="ConfiguroWeb">
+  <meta name="description" content="farmaciaLucia">
+  <meta name="keywords" content="farmaciaLucia">
+  <meta name="author" content="farmaciaLucia">
 
   <link rel="icon" type="image/png" sizes="16x16" href="assets/uploadImage/Logo/favicon.png">
   <?php
@@ -20,7 +20,7 @@
   // $result_head_title = $conn->query($sql_head_title);
   // $row_head_title = mysqli_fetch_array($result_head_title);
   ?>
-  <title>ConfiguroWeb</title>
+  <title>Farmacia</title>
 
   <link href="assets/css/lib/chartist/chartist.min.css" rel="stylesheet">
   <link href="assets/css/lib/owl.carousel.min.css" rel="stylesheet" />

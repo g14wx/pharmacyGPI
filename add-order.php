@@ -303,8 +303,8 @@ if ($_GET['o'] == 'add') {
             <div class="col-sm-4">
               <select class="form-control" name="paymentPlace" id="paymentPlace">
                 <option value="">~~Seleccionar~~</option>
-                <option value="1">Colombia</option>
-                <option value="2">Internet</option>
+                <option value="1">Local</option>
+                <option value="2">Online</option>
               </select>
             </div>
           </div>
