@@ -1,0 +1,12 @@
+recipe: lamp
+name: farmacia01
+config:
+  php: '5.6'
+  webroot: .
+  xdebug: true
+  config:
+    composer_version: '1.10.1'
+
+proxy:
+  appserver:
+    - local.farmacia01.com
