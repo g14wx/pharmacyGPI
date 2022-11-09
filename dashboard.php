@@ -139,7 +139,7 @@ $countLowStock2 = $lowStockQuery2->num_rows;
                             <div class="media-body media-text-right">
 
                                 <h2 class="color-white"><?php echo $countLowStock3; ?></h2>
-                                <a href="Order.php">
+                                <a href="product.php">
                                     <p class="m-b-0">Medicinas Vencidas</p>
                                 </a>
                             </div>
